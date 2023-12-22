@@ -56,13 +56,6 @@
         "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio-templates/javascript-node/main/README.md"
     },
     {
-        "name": "PHP",
-        "description": "Develop PHP based applications. Includes needed tools, extensions, and dependencies.",
-        "gitUrl": "https://github.com/daytonaio-templates/php",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/php.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio-templates/php/main/README.md"
-    },
-    {
         "name": "Python",
         "description": "Develop Python applications.",
         "gitUrl": "https://github.com/daytonaio-templates/python",
