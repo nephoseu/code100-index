@@ -77,8 +77,8 @@
         "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-rust/main/README.md"
     },
     {
-        "name": "Node / TypeScript",
-        "description": "Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler.",
+        "name": "Node / JavaScript / TypeScript",
+        "description": "Develop Node.js based applications in JavaScript or TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler.",
         "gitUrl": "https://github.com/nephoseu/code100-typescript-node",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/typescript-node.png",
         "rawReadmeUrl": "https://raw.githubusercontent.com/nephoseu/code100-typescript-node/main/README.md"
