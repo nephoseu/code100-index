@@ -58,9 +58,9 @@
     {
         "name": "Python",
         "description": "Develop Python applications.",
-        "gitUrl": "https://github.com/daytonaio/sample-python",
+        "gitUrl": "https://github.com/nephoseu/code100-python",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-python/main/README.md"
+        "rawReadmeUrl": "https://raw.githubusercontent.com/nephoseu/code100-python/main/README.md"
     },
     {
         "name": "Ruby",
