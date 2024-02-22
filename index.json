@@ -30,9 +30,9 @@
     {
         "name": "C# (.NET)",
         "description": "Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies.",
-        "gitUrl": "https://github.com/daytonaio/sample-dotnet",
+        "gitUrl": "https://github.com/nephoseu/code100-dotnet",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/dotnet.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-dotnet/main/README.md"
+        "rawReadmeUrl": "https://raw.githubusercontent.com/nephoseu/code100-dotnet/main/README.md"
     },
     {
         "name": "Go",
