@@ -72,9 +72,9 @@
     {
         "name": "Rust",
         "description": "Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running.",
-        "gitUrl": "https://github.com/daytonaio/sample-rust",
+        "gitUrl": "https://github.com/nephoseu/code100-rust",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/rust.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-rust/main/README.md"
+        "rawReadmeUrl": "https://raw.githubusercontent.com/nephoseu/code100-rust/main/README.md"
     },
     {
         "name": "Node / JavaScript / TypeScript",
