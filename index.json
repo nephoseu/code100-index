@@ -65,9 +65,9 @@
     {
         "name": "Ruby",
         "description": "Develop Ruby based applications. includes everything you need to get up and running.",
-        "gitUrl": "https://github.com/daytonaio/sample-ruby",
+        "gitUrl": "https://github.com/nephoseu/code100-ruby",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/ruby.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-ruby/main/README.md"
+        "rawReadmeUrl": "https://raw.githubusercontent.com/nephoseu/code100-ruby/main/README.md"
     },
     {
         "name": "Rust",
