@@ -37,9 +37,9 @@
     {
         "name": "Go",
         "description": "Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies.",
-        "gitUrl": "https://github.com/daytonaio/sample-go",
+        "gitUrl": "https://github.com/nephoseu/code100-go",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/go.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-go/main/README.md"
+        "rawReadmeUrl": "https://raw.githubusercontent.com/nephoseu/code100-go/main/README.md"
     },
     {
         "name": "Java",
